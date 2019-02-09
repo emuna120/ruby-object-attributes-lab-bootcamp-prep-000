@@ -8,5 +8,12 @@ def name
   @name
 end  
 
-  
+def breed=(new_breed) 
+  @name = new_name
+end 
+
+def name
+  @name
+end  
+
 end  
